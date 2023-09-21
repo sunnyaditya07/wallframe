@@ -110,7 +110,7 @@ input {
   padding-top: 10px;
 }
 
-.no-query {
+.message {
   font-size: 36px;
 }
 .pagination {
@@ -148,8 +148,8 @@ input {
   .original-link {
     width: 280px;
   }
-  .no-query {
-    font-size: 28px;
+  .message {
+    font-size: 22px;
   }
   .searchBox {
     width: 350px;
@@ -157,7 +157,5 @@ input {
   }
   input {
     width: 200px;
-  }
-  .pagination {
   }
 }
